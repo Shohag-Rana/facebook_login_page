@@ -1,0 +1,107 @@
+.main{
+	/*margin-top: 50px;*/
+	padding: 80px 50px 0px 20px;
+}
+.recent_login, .user_id{
+	padding-left: 20px;
+}
+.head1{
+	color: #3e4652 !important;
+	margin-bottom: 0;
+}
+.text1{
+	margin-bottom: 30px;
+}
+.user_pro{
+	width: 12rem; height: 160px; float: left; margin-right: 10px;
+	box-shadow: 4px 5px 12px #dfe6f2;
+	height: 225px;
+	border-radius: 5px;
+	border: 1px solid #cedcf2;
+}
+
+.user_pro:hover{
+	box-shadow: 1px 2px 18px gray;
+	position: relative;
+}
+.message{
+	position: absolute;
+	top: -7px;
+	right: -5px;
+	height: 25px;
+	width: 25px;
+	border-radius: 50%;
+	background-color: red;
+	color: white;
+	text-align: center;
+}
+.user_pro:hover .message{
+	box-shadow: 1px 1px 5px black;
+}
+.another_id{
+	width: 12rem; height: 160px; 
+	box-shadow: 4px 5px 12px #dfe6f2;
+	height: 225px;
+	border-radius: 5px;
+	background-color: #f5f7fa;
+	float: left;
+	position: relative;
+	border: 1px solid #cedcf2;
+}
+.add_account{
+	color: blue;
+	text-align: center;
+	font-size: 20px;
+	position: absolute;
+	height: 65px;
+	background-color: white;
+	text-align: center;
+	width: 100%;
+	bottom: 0;
+	padding-top: 15px;
+	 
+}
+.another_id:hover{
+	box-shadow: 1px 2px 18px gray;
+}
+.icon{
+	position: absolute;
+	color: #2d6ecf;
+	text-align: center;
+	top: 28%;
+	left: 33%;
+}
+
+.login_form{
+	padding-left: 100px;
+	padding-top: 80px;
+}
+.box{
+	height: 350px;
+	width: 350px;
+	box-shadow: 1px 3px 15px gray;
+	padding: 20px;
+}
+.box:hover{
+	box-shadow: 1px 3px 20px black;
+}
+.bg-form{
+	background-color: #E9E9F2;
+}
+.form-md{
+	height: 44px;
+}
+.forget_pass{
+	font-size: 20px;
+	padding-top: 20px;
+}
+.create_new_account{
+	text-align: center;
+	padding-top: 10px;
+}
+.text2{
+	text-align: center;
+	padding: 25px;
+	font-size: 18px;
+	margin-left: 50px;
+}
